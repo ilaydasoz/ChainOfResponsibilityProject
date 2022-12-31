@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{28973A83-5722-4B54-B523-DCD1E276C0B5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChainOfResponsibilityProject/ChainOfResponsibility/RegionalManager.cs">
+    <Files>
+      <File FileName="ChainOfResponsibilityProject/Controllers/DefaultController.cs" Line="37" Column="1" />
+      <File FileName="ChainOfResponsibilityProject/Views/Default/Index.cshtml" />
+      <File FileName="ChainOfResponsibilityProject/ChainOfResponsibility/Treasurer.cs" Line="25" Column="14" />
+      <File FileName="ChainOfResponsibilityProject/ChainOfResponsibility/AssistantManager.cs" Line="24" Column="1" />
+      <File FileName="ChainOfResponsibilityProject/ChainOfResponsibility/Manager.cs" Line="32" Column="27" />
+      <File FileName="ChainOfResponsibilityProject/ChainOfResponsibility/RegionalManager.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChainOfResponsibilityProject" expanded="True">
+            <Node name="ChainOfResponsibilityProject" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ChainOfResponsibilityProject PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
