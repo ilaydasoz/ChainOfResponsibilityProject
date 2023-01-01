@@ -1,0 +1,3 @@
+# Chain of Responsibility Design Pattern
+The chain of responsibility design pattern is a way to handle requests in a system by passing them through a chain of objects or components, with each object having the option to either handle the request or pass it on to the next object in the chain. This allows the sender of the request to be decoupled from its receiver, and gives multiple objects the opportunity to handle the request in a modular way.
+- In this project, the withdrawal of money by a bank customer depends on the authority of the bank officials. As the amount of money to be withdrawn increases, the request is sent to a higher authority.
